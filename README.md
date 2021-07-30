@@ -1,6 +1,6 @@
 # itranslator_20180801234
 
-Project UAS Pemrograman Mobile | Fikri Saefullah
+Project UAS Pemrograman Mobile | Fikri Saefullah 20180801234
 
 ## Getting Started
 
